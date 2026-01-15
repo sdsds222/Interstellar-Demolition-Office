@@ -1,7 +1,10 @@
 # Interstellar-Demolition-Office
 Destructible Terrain Space Bullet Hell Shooter Demo, built with the Three.js game engine as a cross-platform browser-based proof of concept.
 
-[Click here to play the Demo](https://sdsds222.itch.io/interstellar-demolition-office)
+[Click here to play the Demo in itch.io](https://sdsds222.itch.io/interstellar-demolition-office)
+
+[Click here to play the Demo](https://sdsds222.github.io/Interstellar-Demolition-Office/)
+
 
 [![在 itch.io 上查看](Snipaste_2026-01-13_19-12-53.png)](https://sdsds222.itch.io/interstellar-demolition-office)
 
